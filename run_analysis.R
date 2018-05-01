@@ -84,7 +84,8 @@ subjects_and_activities <- data_set %>%
   group_by(subject, activity) %>%
   summarise_all(.funs = funs(mean(.))) %>%
   ungroup() %>%
-  gather(key = measurement, value = average_value, -subject, -activity)
+  gather(key = measurement, value = average_value, -subject, -activity) %>%
+  arrange(subject, activity)
 
 
 
