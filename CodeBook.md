@@ -1,4 +1,4 @@
-Coursera Assignment: Tidy data for experiment in activity tracking
+Tidy data for experiment in activity tracking
 ============================================================================================================
 Code Book
 ============================================================================================================
@@ -12,6 +12,7 @@ wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded acce
 - 3-axial linear acceleration signals
 - 3-axial angular velocity signals 
 The experiments have been video-recorded to label the data manually with the performed activities.
+
 
 
 Data transformations:
