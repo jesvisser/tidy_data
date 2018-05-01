@@ -1,7 +1,8 @@
-# tidy_data
-Getting and Cleaning Data Course Project
+# Getting and Cleaning Data: Course Project
+===========================================
 
-Dear Coursera students,
+
+#### Dear Coursera students,
 This repo contains the R script run_analysis.R, which prepares a tidy data set that can be used for later analysis. This document describes how this script works in 7 steps.
 
 ### Is the result tidy data?
